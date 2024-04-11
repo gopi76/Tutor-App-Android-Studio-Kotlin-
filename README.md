@@ -61,5 +61,6 @@ This project aims to create a Tutor App using Android Studio and Kotlin. It incl
 
 🔗 **Demo Video**: 
 
-[![Demo Video](http://img.youtube.com/vi/_den1KoGp1A/0.jpg)](http://www.youtube.com/watch?v=_den1KoGp1A)
+[![Demo Video](https://img.youtube.com/vi/_den1KoGp1A/0.jpg)](https://www.youtube.com/embed/_den1KoGp1A)
+
 
