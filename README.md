@@ -63,4 +63,11 @@ This project aims to create a Tutor App using Android Studio and Kotlin. It incl
 
 [![Demo Video](https://img.youtube.com/vi/_den1KoGp1A/0.jpg)](https://www.youtube.com/embed/_den1KoGp1A)
 
+## Note:
+- In this project i have used firebase (realtime) for storing the user and feedback details.
+- You need to need enter the tutor details manually in the firestore database.
+- Used OpenStreetMap to show the near by tutors (retriving the information from firestore firebase.
+- For tutor details i have used firestore firebase .(you need to add sha and sha1 key in the firebase.) and google json file should be in your project app.
+- I have included all the information (regarding features used) in the project report file. go through once.
+
 
